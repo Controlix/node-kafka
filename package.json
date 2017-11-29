@@ -1,0 +1,11 @@
+{
+  "name": "node-kafka",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node kafka-client.js"
+  },
+  "dependencies": {
+    "kafka-node": "^2.3.0"
+  }
+}
